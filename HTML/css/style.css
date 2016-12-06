@@ -1,0 +1,21 @@
+
+
+body {
+	font-family: helvetica, sans-serif;
+	margin: 0px;
+	height: 100%;
+}
+
+#logoCenter {
+	background-color: rgba(37, 147, 61, 0.3);
+	width: auto;
+}
+
+img {
+	display: block;
+	width: auto;
+	margin: auto;
+	padding-top: 10%;
+	padding-bottom: 20.5%
+}
+
